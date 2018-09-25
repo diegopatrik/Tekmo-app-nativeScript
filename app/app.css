@@ -1,5 +1,19 @@
-@import '~nativescript-theme-core/css/core.light.css';
-
-.btn {
-    font-size: 18;
+.title {
+    font-size: 30;
+    horizontal-align: center;
+    margin: 20;
+}
+.sub-title {
+    font-size: 20;
+}
+Label {
+    margin-left: 10;
+    margin-right: 10;
+    margin-bottom: 10;
+}
+button {
+    horizontal-align: center;
+}
+Page {
+    background-color: #EFEFEF;
 }
